@@ -1,6 +1,2 @@
 hola mundo!!
 este es un nuevo cambio de ejemplo.
-
-
-if ():
-    pass
